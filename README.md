@@ -54,13 +54,24 @@
 </p>
 
 ---
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhan785&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan785&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhan785&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhan785&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan785&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhan785&theme=tokyonight&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
